@@ -1,0 +1,1 @@
+Benign file so the PR has a diff. The exploit is carried by the attacker-controlled source branch name, which the workflow interpolates into a run: block.
